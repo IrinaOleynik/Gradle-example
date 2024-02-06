@@ -47,3 +47,4 @@ bin/
 .DS_Storegradle/wrapper
 gradleew
 gradlew
+gradlew.bat
