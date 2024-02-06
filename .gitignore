@@ -45,3 +45,5 @@ bin/
 
 ### Mac OS ###
 .DS_Storegradle/wrapper
+gradleew
+gradlew
